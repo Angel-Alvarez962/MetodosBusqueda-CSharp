@@ -7,18 +7,18 @@ Este proyecto tiene como finalidad implementar y comparar diferentes métodos de
 3. Transformación de Claves: Se utiliza una función de transformación para optimizar la eficiencia de la búsqueda.
 
 Instrucciones para clonar el repositorio en Visual Studio 2022:
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Como el programa se encuentra en un GitHub, se debe copiar el enlace del repositorio Git, en este caso es el siguiente:
 https://github.com/Angel-Alvarez962/MetodosBusqueda-CSharp
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2.Una vez copiado el enlace, abrimos Visual Studio Community 2022. En caso de no tenerlo, se puede instalar de manera gratuita desde cualquier navegador. El enlace es el siguiente: https://visualstudio.microsoft.com/es/downloads/.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Al abrir Visual Studio, nos darán diferentes opciones sobre lo que queremos realizar. La primera opción es "Clonar un repositorio".
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 4. Seleccionamos la opción y aparecerá un cuadro de texto donde colocaremos el enlace del GitHub del cual queremos clonar el código.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 5. Una vez clonado el repositorio, abriremos el Explorador de Soluciones y seleccionaremos el archivo .cs que queremos ejecutar.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 El código está diseñado para realizar búsquedas de elementos dentro de una lista utilizando tres métodos diferentes. Su estructura es modular, lo que significa que cada método de búsqueda está implementado en un archivo independiente y se ejecuta desde un programa principal que controla la interacción con el usuario.
 
