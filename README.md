@@ -42,10 +42,11 @@ El código está diseñado para realizar búsquedas de elementos dentro de una l
 - Reduce la cantidad de comparaciones necesarias y es útil en ciertos tipos de datos con patrones repetitivos.
 
 
-Método de Búsqueda	    10 elementos	25 elementos	50 elementos
-Secuencial	            0.5 ms	      1.8 ms	      4.2 ms
-Binaria	                0.1 ms	      0.5 ms	      1.2 ms
-Transformación Claves  	0.2 ms	      0.6 ms	      1.5 ms
+Método de Búsqueda	 |10 elementos|25 elementos|50 elementos|
+---------------------|------------|------------|------------|
+Secuencial	         |0.5 ms	    |1.8 ms	     |4.2 ms      |
+Binaria	             |0.1 ms	    |0.5 ms	     |1.2 ms      |
+Transformación Claves|0.2 ms	    |0.6 ms	     |1.5 ms      |
 
 Se han ejecutado pruebas con diferentes tamaños de arreglos para medir los tiempos de ejecución de cada método, de esta podemos sacar las siguientes conclusiones:
 
